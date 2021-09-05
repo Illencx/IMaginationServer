@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Illencx/IMaginationServer/issues"
   },
-  "homepage": "https://github.com/Illencx/IMaginationServer#readme"
+  "homepage": "https://github.com/Illencx/IMaginationServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.1.2",
+    "socket.io": "^4.2.0"
+  }
 }
